@@ -2,7 +2,7 @@
 
 node version 16 needed to run
 
-## From the root directory run in the terminal:
+## From the root directory run in the bash terminal:
 
 ```bash
 npm i
